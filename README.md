@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nelrodriguez22
+- 👋 Hi, I’m  Nel rodriguez
 - 🏢 @ITNavent
 - 📫 Work: nrodriguez@navent.com  
 - 🤓 Personal Acc: https://github.com/nelrodriguez22
